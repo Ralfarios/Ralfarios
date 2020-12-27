@@ -1,16 +1,16 @@
 ### What's up? 👋
 
-My name is Muamar Al Farabi, but you can call me:
+My name is <b>Muamar Al Farabi</b>, but you can call me:
   - 🌏 Ralfarios (internet pen name)
   - 🧑 Amar (nickname)
   - 🇯🇵 アマル (日本語話すの方)
-  - 💳 Muamar Al Farabi (fullname)
+  - 📇 Muamar Al Farabi (fullname)
   
-I am a Front-End Developer wannabe and hopefully get a job in 2021. 💪
-I love drawing 🎨 and playing with my guitar 🎸. Learning something new about coding and stuff is my favorite too, because technology is growing rapidly, learning something new everyday is a must! 💪
+I am a <b>Front-End Developer wannabe</b> and hopefully get a job in 2021. 💪<br>
+I love drawing 🎨 and playing with my guitar 🎸. Learning something new about coding and stuff is my favorite too, because technology is growing rapidly, learning something new everyday is a <b>must</b>! 💪
 
 Currently, I am:
-  - 🦊 Learning how to become best developer in Hacktiv8
+  - 🦊 Learning how to become best developer in <b>Hacktiv8</b>
   - 💼 Available to hire
   - 🇯🇵 N2を合格するように日本語を勉強してます
   
