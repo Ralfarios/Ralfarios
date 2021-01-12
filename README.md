@@ -32,7 +32,6 @@ Anyway, I can use these tools and languages:<br><br>
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="48px">
 
 To be learned:<br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="48px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" height="48px">
