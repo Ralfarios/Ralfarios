@@ -27,9 +27,9 @@ Anyway, I can use these tools and languages:<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="48px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="48px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS" height="48px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="48px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="48px">
 
