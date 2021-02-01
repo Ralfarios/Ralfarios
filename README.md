@@ -14,7 +14,7 @@ Currently, I am:
   - 💼 Available to hire
   - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
-What've been I made since I started learn how to coding: <br>
+My porfolio made with ♥: <br>
 - [✏ Risuto-Todo (Fancy Todo List)](https://risuto-todo.web.app) 👉 (Jquery || ExpressJS PostgreSQL Sequelize) [Client and Server Repo](https://github.com/Ralfarios/fancy-todo)
 - [📃 Kanboard (Kanban Board)](https://kanboard-ralfarios.web.app) 👉 (Vue || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/kanban-client) || [Server Repo](https://github.com/Ralfarios/kanban-server)
 - [👤 Funorama Admin Dashboard (E-Commerce CMS)](https://funorama-ralfarios.web.app) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-CMS) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
