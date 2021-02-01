@@ -14,6 +14,13 @@ Currently, I am:
   - 💼 Available to hire
   - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
+What've been I made since I started learn how to coding: <br>
+- [✏ Risuto-Todo (Fancy Todo List)](https://risuto-todo.web.app) 👉 (Jquery || ExpressJS PostgreSQL Sequelize) [Client and Server Repo](https://github.com/Ralfarios/fancy-todo)
+- [📃 Kanboard (Kanban Board)](https://kanboard-ralfarios.web.app) 👉 (Vue || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/kanban-client) || [Server Repo](https://github.com/Ralfarios/kanban-server)
+- [👤 Funorama Admin Dashboard (E-Commerce CMS)](https://funorama-ralfarios.web.app) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-CMS) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
+- [🛒 Funorama Client (E-Commerce)](https://lefunorama.web.app/) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-customer) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
+- And much more, please checkout my repo. 👍👍👍
+
 Anyway, I can use these tools and languages:<br><br>
 <a href="https://nodejs.org/en/" title="Node.js"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodeJS" height="48px"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
