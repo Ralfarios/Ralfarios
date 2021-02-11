@@ -19,6 +19,8 @@ My porfolio made with ♥: <br>
 - [📃 Kanboard (Kanban Board)](https://kanboard-ralfarios.web.app) 👉 (Vue || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/kanban-client) || [Server Repo](https://github.com/Ralfarios/kanban-server)
 - [👤 Funorama Admin Dashboard (E-Commerce CMS)](https://funorama-ralfarios.web.app) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-CMS) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
 - [🛒 Funorama Client (E-Commerce)](https://lefunorama.web.app/) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-customer) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
+- [🃏 YUGiDB (YuGiOh! Cards DB UI)](https://yugi-db.web.app/) 👉(ReactJS (Redux, React Redux, Redux Thunk)
+- [📱 Le Sudoku (Mobile Game App)](https://expo.io/@ralfarios/projects/la-sudoku) 👉 (React Native (Expo, React Navigation)
 - And much more, please checkout my repo. 👍👍👍
 
 Anyway, I can use these tools and languages:<br><br>
@@ -41,11 +43,11 @@ Anyway, I can use these tools and languages:<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="48px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="48px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="48px">
 
 To be learned:<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" height="48px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="48px">
 
 <!--
 **Ralfarios/Ralfarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
