@@ -6,11 +6,10 @@ My name is <b>Muamar Al Farabi</b>, but you can call me:
   - 🇯🇵 アマル <i>(日本語話すの方)</i>
   - 📇 Muamar Al Farabi <i>(fullname)</i>
   
-I am a <b>Front-End Developer wannabe</b> and hopefully get a job in 2021. 💪<br>
+I am a <b>Front-End Developer</b> and hopefully get a job in 2021. 💪<br> 
 I love <b>drawing</b> 🎨 and playing with my <b>guitar</b> 🎸. Learning something new about coding and stuff are my favorite too, because technology is growing rapidly, learning something new everyday is a <b>must</b>! 💪
 
 Currently, I am:
-  - 🦊 Learning how to become best developer in <b>Hacktiv8</b>
   - 💼 Available to hire
   - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
@@ -24,30 +23,32 @@ My porfolio made with ♥: <br>
 - And much more, please checkout my repo. 👍👍👍
 
 Anyway, I can use these tools and languages:<br><br>
-<a href="https://nodejs.org/en/" title="Node.js"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodeJS" height="48px"></a>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="48px">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="48px">
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="48px"></a>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="48px">
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="48px">
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS" height="48px">
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="48px">
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="48px">
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="48px">
+<img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" height="48px">
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
 To be re-learned:<br><br>
-<a href="https://flutter.dev/" title="Flutter"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="48px"></a>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
 <!--
 **Ralfarios/Ralfarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
