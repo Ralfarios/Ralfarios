@@ -14,10 +14,11 @@ Currently, I am:
   - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
 My porfolio made with ♥: <br>
-- [✏ Risuto-Todo (Fancy Todo List)](https://risuto-todo.web.app) 👉 (Jquery || ExpressJS PostgreSQL Sequelize) [Client and Server Repo](https://github.com/Ralfarios/fancy-todo)
-- [📃 Kanboard (Kanban Board)](https://kanboard-ralfarios.web.app) 👉 (Vue || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/kanban-client) || [Server Repo](https://github.com/Ralfarios/kanban-server)
+- [🎨 mARTerialize (Art Commission)](https://marterialize.web.app) 👉 (React, React Redux, Redux Thunk, Socket.IO || Express, PostgreSQL, Sequelize, Socket.IO, Midtrans) [Github Organization and Repos](https://github.com/artmart-team)
+- [✏ Risuto-Todo (Fancy Todo List)](https://risuto-todo.web.app) 👉 (Jquery || Express, PostgreSQL, Sequelize) [Client and Server Repo](https://github.com/Ralfarios/fancy-todo)
+- [📃 Kanboard (Kanban Board)](https://kanboard-ralfarios.web.app) 👉 (Vue || Express, PostgreSQL, Sequelize) [Client Repo](https://github.com/Ralfarios/kanban-client) || [Server Repo](https://github.com/Ralfarios/kanban-server)
 - [👤 Funorama Admin Dashboard (E-Commerce CMS)](https://funorama-ralfarios.web.app) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-CMS) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
-- [🛒 Funorama Client (E-Commerce)](https://lefunorama.web.app/) 👉 (Vue (Vuex, Vue-router) || ExpressJS PostgreSQL Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-customer) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
+- [🛒 Funorama Client (E-Commerce)](https://lefunorama.web.app/) 👉 (Vue (Vuex, Vue-router) || Express, PostgreSQL, Sequelize) [Client Repo](https://github.com/Ralfarios/ecommerce-client-customer) || [Server Repo](https://github.com/Ralfarios/ecommerce-server)
 - [🃏 YUGiDB (YuGiOh! Cards DB UI)](https://yugi-db.web.app/) 👉(ReactJS (Redux, React Redux, Redux Thunk)
 - [📱 Le Sudoku (Mobile Game App)](https://expo.io/@ralfarios/projects/la-sudoku) 👉 (React Native (Expo, React Navigation)
 - And much more, please checkout my repo. 👍👍👍
