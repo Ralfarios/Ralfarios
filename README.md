@@ -28,6 +28,8 @@ Anyway, I can use these tools and languages:<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" height="24px">
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
