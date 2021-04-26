@@ -6,11 +6,11 @@ My name is <b>Muamar Al Farabi</b>, but you can call me:
   - 🇯🇵 アマル <i>(日本語話すの方)</i>
   - 📇 Muamar Al Farabi <i>(fullname)</i>
   
-I am a <b>Front-End Developer</b> and hopefully get a job in 2021. 💪<br> 
+I am a <b>Front-End Developer</b>. 💪<br> 
 I love <b>drawing</b> 🎨 and playing with my <b>guitar</b> 🎸. Learning something new about coding and stuff are my favorite too, because technology is growing rapidly, learning something new everyday is a <b>must</b>! 💪
 
 Currently, I am:
-  - 💼 Available to hire
+  - 💼 Hired! 
   - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
 My porfolio made with ♥: <br>
