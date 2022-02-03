@@ -1,10 +1,6 @@
 ### What's up? 👋
 
-My name is <b>Muamar Al Farabi</b>, but you can call me:
-  - 🌏 Ralfarios <i>(internet pen name)</i>
-  - 🧑 Amar <i>(nickname)</i>
-  - 🇯🇵 アマル <i>(日本語話すの方)</i>
-  - 📇 Muamar Al Farabi <i>(fullname)</i>
+Hello, my name is Ralfarios. 👽
   
 I am a <b>Front-End Developer</b>. 💪<br> 
 I love <b>drawing</b> 🎨 and playing with my <b>guitar</b> 🎸. Learning something new about coding and stuff are my favorite too, because technology is growing rapidly, learning something new everyday is a <b>must</b>! 💪
