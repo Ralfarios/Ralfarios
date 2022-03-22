@@ -4,10 +4,6 @@ Hello, my name is Ralfarios. 👽
   
 I am a <b>Front-End Developer</b>. 💪<br> 
 I love <b>drawing</b> 🎨 and playing with my <b>guitar</b> 🎸. Learning something new about coding and stuff are my favorite too, because technology is growing rapidly, learning something new everyday is a <b>must</b>! 💪
-
-Currently, I am:
-  - 💼 Hired! 
-  - 🇯🇵 N2を合格するように日本語をもっと勉強してます
   
 My porfolio made with ♥: <br>
 - [🎱 Pokédexpedia](https://thepokedexpedia.web.app) 👉 (React, Redux, React Redux, Redux Thunk, Emotion, Bootstrap, React Router DOM, etc) [Repo](https://github.com/Ralfarios/pokedexpedia)
