@@ -6,7 +6,3 @@ Currently, I'm working as a Software Engineer in <a href="https://pandatech.io/"
 - 💻 Re-learning Flutter and NextJS for my next personal project
 - 🌍 Learning other language to reach other country
 
-
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfarios&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
