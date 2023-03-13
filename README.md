@@ -7,7 +7,6 @@ Currently, I'm working as a Software Engineer in <a href="https://pandatech.io/"
 - 🌍 Learning other language to reach other country
 
 
-![Ralfarios's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfarios&show_icons=true&theme=github_dark)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfarios&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
