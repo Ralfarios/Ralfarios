@@ -20,3 +20,5 @@ I love exploring other technologies and tools for learning purposes.
 - [Pokélemond](https://pokelemond.vercel.app/) ー Pokémon list website for deepen Nextjs learning purposes.
 - *Hidden due NDA* ー CMS and homepage website project for showing their talent on the main website.
 
+### GitHub Stats
+![Ralfarios' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfarios&show_icons=true&theme=dark)
