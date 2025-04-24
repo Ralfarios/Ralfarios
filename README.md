@@ -22,3 +22,4 @@ I love exploring other technologies and tools for learning purposes.
 
 ### GitHub Stats
 ![Ralfarios' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfarios&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfarios&layout=compact&theme=dark)
