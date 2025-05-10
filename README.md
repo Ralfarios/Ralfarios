@@ -1,6 +1,6 @@
 # こんにちは！👋 Ralfarでございます！
 
-My name is Ralfarios, and I'm a Software Engineer mainly focusing on Front-end web development with React⚛️ and its meta-framework, Nextjs ⏭️. Currently, I'm working full-time at [Koda](https://koda.so/).
+My name is Ralfarios, and I'm a Software Engineer.
 I love exploring other technologies and tools for learning purposes.
 
 ### Programming Languages
